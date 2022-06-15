@@ -1,0 +1,36 @@
+4
+SSI20250102GA
+Ini Buku Fiksi
+Penulis Fiksi
+10/01/2021
+4
+SSI20250102GA
+Ini Buku Non Fiksi
+Penulis Non Fiksi
+15/01/2021
+4
+SIK21270102NJ
+Ini Buku Fiksi
+Penulis Fiksi
+13/01/2021
+4
+SIK21270102NJ
+Ini Buku Metafiksi
+Penulis Metafiksi
+17/01/2021
+4
+MIK21280102Y0
+Ini Buku Metafiksi
+Penulis Metafiksi
+20/01/2021
+4
+DIK2029010255
+Ini Buku Metafiksi
+Penulis Metafiksi
+25/01/2021
+7
+DIK2029010255
+7
+MIK21280102Y0
+8
+99

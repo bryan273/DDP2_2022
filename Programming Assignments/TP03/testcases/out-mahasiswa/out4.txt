@@ -1,0 +1,615 @@
+Start - Register Staf...
+Berhasil menambahkan staf dengan data:
+ID Staf: STAF-1
+Nama Staf: Dek Depe
+Berhasil menambahkan staf dengan data:
+ID Staf: STAF-2
+Nama Staf: Dek DePram
+Berhasil menambahkan staf dengan data:
+ID Staf: STAF-3
+Nama Staf: Dek Sofita
+Berhasil menambahkan staf dengan data:
+ID Staf: STAF-4
+Nama Staf: Winter
+Berhasil menambahkan staf dengan data:
+ID Staf: STAF-5
+Nama Staf: Boo
+Done - Register Staf...
+
+Selamat Datang di Sistem Perpustakaan SistakaNG!
+================ Menu Utama ================
+
+1. Login
+2. Keluar
+Masukkan pilihan menu: 
+Masukkan ID Anda untuk login ke sistem
+ID: Halo, Boo! Selamat datang di SistakaNG
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 
+---------- Tambah Anggota ----------
+Tipe Anggota: Nama: Program Studi (SIK/SSI/MIK/MTI/DIK): Angkatan: Tanggal Lahir (dd/mm/yyyy): Berhasil menambahkan mahasiswa dengan data:
+ID Anggota: SIK21230303AS
+Nama Anggota: Summer
+Total Poin: 0
+Denda: Rp0
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 
+---------- Tambah Anggota ----------
+Tipe Anggota: Nama: Berhasil menambahkan dosen dengan data:
+ID Anggota: DOSEN-1
+Nama Anggota: Zipa
+Total Poin: 0
+Denda: Rp0
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 
+---------- Tambah Kategori ----------
+Nama Kategori: Poin: Kategori Self Development dengan poin 50 berhasil ditambahkan
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 
+---------- Tambah Buku ----------
+Judul: Penulis: Penerbit: Kategori: Stok: Buku Grit oleh Angela Duckworth berhasil ditambahkan
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 
+---------- Tambah Buku ----------
+Judul: Penulis: Penerbit: Kategori: Stok: Buku Refactoring oleh Martin Fowler berhasil ditambahkan
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 
+---------- Tambah Buku ----------
+Judul: Penulis: Penerbit: Kategori: Stok: Buku Grit 2 oleh Angela Duckworth berhasil ditambahkan
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 
+---------- Tambah Buku ----------
+Judul: Penulis: Penerbit: Kategori: Stok: Buku Refactoring 2 oleh Martin Fowler berhasil ditambahkan
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 
+---------- Tambah Buku ----------
+Judul: Penulis: Penerbit: Kategori: Stok: Buku Grit 3 oleh Angela Duckworth berhasil ditambahkan
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 
+---------- Tambah Buku ----------
+Judul: Penulis: Penerbit: Kategori: Stok: Buku Refactoring 3 oleh Martin Fowler berhasil ditambahkan
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 
+Terima kasih telah menggunakan SistakaNG!
+
+
+================ Menu Utama ================
+
+1. Login
+2. Keluar
+Masukkan pilihan menu: 
+Masukkan ID Anda untuk login ke sistem
+ID: Halo, Summer! Selamat datang di SistakaNG
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 
+---------- Peminjaman Buku ----------
+Judul Buku: Penulis Buku: Tanggal Peminjaman: Buku Buku Tidak ada oleh Penulis Tidak ada tidak ditemukan
+
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 
+---------- Peminjaman Buku ----------
+Judul Buku: Penulis Buku: Tanggal Peminjaman: Summer berhasil meminjam Buku Grit!
+
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 
+---------- Peminjaman Buku ----------
+Judul Buku: Penulis Buku: Tanggal Peminjaman: Buku Grit oleh Angela Duckworth sedang dipinjam
+
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 
+ID Anggota: SIK21230303AS
+Nama Anggota: Summer
+Total Poin: 0
+Denda: Rp0
+Riwayat Peminjaman Buku:
+----------------- 1 -----------------
+Judul Buku: Grit
+Penulis Buku: Angela Duckworth
+Penerbit Buku: Gramedia
+Kategori: Self Development
+Poin: 50
+Tanggal Peminjaman: 08/04/2022
+Tanggal Pengembalian: -
+Denda: Rp0
+
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 
+---------- Peminjaman Buku ----------
+Judul Buku: Penulis Buku: Tanggal Peminjaman: Summer berhasil meminjam Buku Grit 2!
+
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 
+ID Anggota: SIK21230303AS
+Nama Anggota: Summer
+Total Poin: 0
+Denda: Rp0
+Riwayat Peminjaman Buku:
+----------------- 1 -----------------
+Judul Buku: Grit
+Penulis Buku: Angela Duckworth
+Penerbit Buku: Gramedia
+Kategori: Self Development
+Poin: 50
+Tanggal Peminjaman: 08/04/2022
+Tanggal Pengembalian: -
+Denda: Rp0
+----------------- 2 -----------------
+Judul Buku: Grit 2
+Penulis Buku: Angela Duckworth
+Penerbit Buku: Gramedia
+Kategori: Self Development
+Poin: 50
+Tanggal Peminjaman: 08/04/2022
+Tanggal Pengembalian: -
+Denda: Rp0
+
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 
+---------- Peminjaman Buku ----------
+Judul Buku: Penulis Buku: Tanggal Peminjaman: Summer berhasil meminjam Buku Grit 3!
+
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 
+ID Anggota: SIK21230303AS
+Nama Anggota: Summer
+Total Poin: 0
+Denda: Rp0
+Riwayat Peminjaman Buku:
+----------------- 1 -----------------
+Judul Buku: Grit
+Penulis Buku: Angela Duckworth
+Penerbit Buku: Gramedia
+Kategori: Self Development
+Poin: 50
+Tanggal Peminjaman: 08/04/2022
+Tanggal Pengembalian: -
+Denda: Rp0
+----------------- 2 -----------------
+Judul Buku: Grit 2
+Penulis Buku: Angela Duckworth
+Penerbit Buku: Gramedia
+Kategori: Self Development
+Poin: 50
+Tanggal Peminjaman: 08/04/2022
+Tanggal Pengembalian: -
+Denda: Rp0
+----------------- 3 -----------------
+Judul Buku: Grit 3
+Penulis Buku: Angela Duckworth
+Penerbit Buku: Gramedia
+Kategori: Self Development
+Poin: 50
+Tanggal Peminjaman: 08/04/2022
+Tanggal Pengembalian: -
+Denda: Rp0
+
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 
+---------- Peminjaman Buku ----------
+Judul Buku: Penulis Buku: Tanggal Peminjaman: Buku Grit 3 oleh Angela Duckworth tidak tersedia
+
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 
+ID Anggota: SIK21230303AS
+Nama Anggota: Summer
+Total Poin: 0
+Denda: Rp0
+Riwayat Peminjaman Buku:
+----------------- 1 -----------------
+Judul Buku: Grit
+Penulis Buku: Angela Duckworth
+Penerbit Buku: Gramedia
+Kategori: Self Development
+Poin: 50
+Tanggal Peminjaman: 08/04/2022
+Tanggal Pengembalian: -
+Denda: Rp0
+----------------- 2 -----------------
+Judul Buku: Grit 2
+Penulis Buku: Angela Duckworth
+Penerbit Buku: Gramedia
+Kategori: Self Development
+Poin: 50
+Tanggal Peminjaman: 08/04/2022
+Tanggal Pengembalian: -
+Denda: Rp0
+----------------- 3 -----------------
+Judul Buku: Grit 3
+Penulis Buku: Angela Duckworth
+Penerbit Buku: Gramedia
+Kategori: Self Development
+Poin: 50
+Tanggal Peminjaman: 08/04/2022
+Tanggal Pengembalian: -
+Denda: Rp0
+
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 
+---------- Peminjaman Buku ----------
+Judul Buku: Penulis Buku: Tanggal Peminjaman: Jumlah buku yang sedang dipinjam sudah mencapai batas maksimal
+
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 
+---------- Pengembalian Buku ----------
+Judul Buku: Penulis Buku: Tanggal Pengembalian: Buku Refactoring 3 tidak sedang dipinjam oleh Summer
+
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 
+---------- Pengembalian Buku ----------
+Judul Buku: Penulis Buku: Tanggal Pengembalian: Buku Tidak Ada oleh Anon tidak ditemukan
+
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 
+ID Anggota: SIK21230303AS
+Nama Anggota: Summer
+Total Poin: 0
+Denda: Rp0
+Riwayat Peminjaman Buku:
+----------------- 1 -----------------
+Judul Buku: Grit
+Penulis Buku: Angela Duckworth
+Penerbit Buku: Gramedia
+Kategori: Self Development
+Poin: 50
+Tanggal Peminjaman: 08/04/2022
+Tanggal Pengembalian: -
+Denda: Rp0
+----------------- 2 -----------------
+Judul Buku: Grit 2
+Penulis Buku: Angela Duckworth
+Penerbit Buku: Gramedia
+Kategori: Self Development
+Poin: 50
+Tanggal Peminjaman: 08/04/2022
+Tanggal Pengembalian: -
+Denda: Rp0
+----------------- 3 -----------------
+Judul Buku: Grit 3
+Penulis Buku: Angela Duckworth
+Penerbit Buku: Gramedia
+Kategori: Self Development
+Poin: 50
+Tanggal Peminjaman: 08/04/2022
+Tanggal Pengembalian: -
+Denda: Rp0
+
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 
+---------- Pengembalian Buku ----------
+Judul Buku: Penulis Buku: Tanggal Pengembalian: Buku Grit 3 berhasil dikembalikan oleh Summer dengan denda Rp15000!
+
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 
+ID Anggota: SIK21230303AS
+Nama Anggota: Summer
+Total Poin: 50
+Denda: Rp15000
+Riwayat Peminjaman Buku:
+----------------- 1 -----------------
+Judul Buku: Grit
+Penulis Buku: Angela Duckworth
+Penerbit Buku: Gramedia
+Kategori: Self Development
+Poin: 50
+Tanggal Peminjaman: 08/04/2022
+Tanggal Pengembalian: -
+Denda: Rp0
+----------------- 2 -----------------
+Judul Buku: Grit 2
+Penulis Buku: Angela Duckworth
+Penerbit Buku: Gramedia
+Kategori: Self Development
+Poin: 50
+Tanggal Peminjaman: 08/04/2022
+Tanggal Pengembalian: -
+Denda: Rp0
+----------------- 3 -----------------
+Judul Buku: Grit 3
+Penulis Buku: Angela Duckworth
+Penerbit Buku: Gramedia
+Kategori: Self Development
+Poin: 50
+Tanggal Peminjaman: 08/04/2022
+Tanggal Pengembalian: 20/04/2022
+Denda: Rp15000
+
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 
+---------- Peminjaman Buku ----------
+Judul Buku: Penulis Buku: Tanggal Peminjaman: Denda lebih dari Rp5000
+
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 
+---------- Pembayaran Denda ----------
+Jumlah: Summer berhasil membayar denda sebesar Rp10000
+Sisa denda saat ini: Rp5000
+
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 
+---------- Pembayaran Denda ----------
+Jumlah: Summer berhasil membayar lunas denda
+Jumlah kembalian: Rp2000
+
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 
+---------- Pembayaran Denda ----------
+Jumlah: Summer tidak memiliki denda
+
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 
+ID Anggota: SIK21230303AS
+Nama Anggota: Summer
+Total Poin: 50
+Denda: Rp0
+Riwayat Peminjaman Buku:
+----------------- 1 -----------------
+Judul Buku: Grit
+Penulis Buku: Angela Duckworth
+Penerbit Buku: Gramedia
+Kategori: Self Development
+Poin: 50
+Tanggal Peminjaman: 08/04/2022
+Tanggal Pengembalian: -
+Denda: Rp0
+----------------- 2 -----------------
+Judul Buku: Grit 2
+Penulis Buku: Angela Duckworth
+Penerbit Buku: Gramedia
+Kategori: Self Development
+Poin: 50
+Tanggal Peminjaman: 08/04/2022
+Tanggal Pengembalian: -
+Denda: Rp0
+----------------- 3 -----------------
+Judul Buku: Grit 3
+Penulis Buku: Angela Duckworth
+Penerbit Buku: Gramedia
+Kategori: Self Development
+Poin: 50
+Tanggal Peminjaman: 08/04/2022
+Tanggal Pengembalian: 20/04/2022
+Denda: Rp15000
+
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 
+Terima kasih telah menggunakan SistakaNG!
+
+
+================ Menu Utama ================
+
+1. Login
+2. Keluar
+Masukkan pilihan menu: 
+Terima kasih telah menggunakan SistakaNG. Sampai jumpa di lain kesempatan!
+

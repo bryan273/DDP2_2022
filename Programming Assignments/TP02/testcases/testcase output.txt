@@ -1,0 +1,1008 @@
+Selamat Datang di Sistem Perpustakaan SistakaNG!
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+
+---------- Tambah Anggota ----------
+Nama : Program Studi (SIK/SSI/MIK/MTI/DIK): Angkatan: Tanggal Lahir (dd/mm/yyyy): Member Bryan berhasil ditambahkan dengan data:
+ID Anggota: SSI201708036Z
+Nama Anggota: Bryan
+Total Point: 0
+Denda : 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Tambah Anggota ----------
+Nama : Program Studi (SIK/SSI/MIK/MTI/DIK): Angkatan: Tanggal Lahir (dd/mm/yyyy): Member Budi berhasil ditambahkan dengan data:
+ID Anggota: SIK21160603SX
+Nama Anggota: Budi
+Total Point: 0
+Denda : 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Tambah Anggota ----------
+Nama : Program Studi (SIK/SSI/MIK/MTI/DIK): Angkatan: Tanggal Lahir (dd/mm/yyyy): Member Bubu berhasil ditambahkan dengan data:
+ID Anggota: MIK09161203UY
+Nama Anggota: Bubu
+Total Point: 0
+Denda : 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Tambah Anggota ----------
+Nama : Program Studi (SIK/SSI/MIK/MTI/DIK): Angkatan: Tanggal Lahir (dd/mm/yyyy): Member Bibi berhasil ditambahkan dengan data:
+ID Anggota: SIK211009037O
+Nama Anggota: Bibi
+Total Point: 0
+Denda : 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Tambah Anggota ----------
+Nama : Program Studi (SIK/SSI/MIK/MTI/DIK): Angkatan: Tanggal Lahir (dd/mm/yyyy): Member Budu berhasil ditambahkan dengan data:
+ID Anggota: SIK20010103BN
+Nama Anggota: Budu
+Total Point: 0
+Denda : 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Peringkat Anggota ----------
+----------------- 1 -----------------
+ID Anggota: SIK211009037O
+Nama Anggota: Bibi
+Total Point: 0
+Denda: 0
+----------------- 2 -----------------
+ID Anggota: SSI201708036Z
+Nama Anggota: Bryan
+Total Point: 0
+Denda: 0
+----------------- 3 -----------------
+ID Anggota: MIK09161203UY
+Nama Anggota: Bubu
+Total Point: 0
+Denda: 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Tambah Kategori ----------
+Nama Kategori: Point: Kategori Fiksi dengan 40 point berhasil ditambahkan
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Tambah Kategori ----------
+Nama Kategori: Point: Kategori Non Fiksi dengan 20 point berhasil ditambahkan
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Tambah Buku ----------
+Judul: Penulis: Penerbit: Kategori: Stok: Buku judul satu oleh penulis satu berhasil ditambahkan
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Tambah Buku ----------
+Judul: Penulis: Penerbit: Kategori: Stok: Buku judul dua oleh penulis dua berhasil ditambahkan
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Tambah Buku ----------
+Judul: Penulis: Penerbit: Kategori: Stok: Buku judul satu oleh penulis satu aksen berhasil ditambahkan
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Tambah Buku ----------
+Judul: Penulis: Penerbit: Kategori: Stok: Buku judul satu oleh penulis satu sudah pernah ditambahkan
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Tambah Buku ----------
+Judul: Penulis: Penerbit: Kategori: Stok: Kategori fiksin tidak ditemukan
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Peminjaman Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Peminjaman: Bryan berhasil meminjam Buku judul satu!
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Peminjaman Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Peminjaman: Buku judul satu oleh penulis satu sedang dipinjam
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Peminjaman Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Peminjaman: Anggota dengan ID SSI201708036Y tidak ditemukan      
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Peminjaman Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Peminjaman: Budi berhasil meminjam Buku judul satu!
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Peminjaman Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Peminjaman: Bubu berhasil meminjam Buku judul satu!
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Peminjaman Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Peminjaman: Budu berhasil meminjam Buku judul satu!
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Peminjaman Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Peminjaman: Buku judul satu oleh penulis satu tidak tersedia     
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Pengembalian Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Pengembalian: Buku judul satu tidak sedang dipinjam
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Pengembalian Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Pengembalian: Buku judul satu berhasil dikembalikan oleh Budi dengan denda Rp 0!
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Peminjaman Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Peminjaman: Bibi berhasil meminjam Buku judul satu!
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Peminjaman Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Peminjaman: Buku judul satu oleh penulis satu tidak tersedia
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Pembayaran Denda ----------
+ID Anggota: Jumlah: Budi tidak memiliki denda
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Peringkat Anggota ----------
+----------------- 1 -----------------
+ID Anggota: SIK21160603SX
+Nama Anggota: Budi
+Total Point: 40
+Denda: 0
+----------------- 2 -----------------
+ID Anggota: SIK211009037O
+Nama Anggota: Bibi
+Total Point: 0
+Denda: 0
+----------------- 3 -----------------
+ID Anggota: SSI201708036Z
+Nama Anggota: Bryan
+Total Point: 0
+Denda: 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Detail Anggota ----------
+ID Anggota: ID Anggota: SIK211009037O
+Nama Anggota: Bibi
+Total Point: 0
+Denda: 0
+Riwayat Peminjaman Buku :
+----------------- 1 -----------------
+Judul Buku: judul satu
+Penulis Buku: penulis satu
+Penerbit Buku: a
+Kategori: Fiksi
+Point: 40
+Tanggal Peminjaman: 08/03/2022
+Tanggal Pengembalian: -
+Denda: Rp 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Pengembalian Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Pengembalian: Buku judul satu berhasil dikembalikan oleh Bryan dengan denda Rp 9000!
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Pengembalian Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Pengembalian: Anggota dengan ID SSI201708036Y tidak ditemukan    
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Peringkat Anggota ----------
+----------------- 1 -----------------
+ID Anggota: SSI201708036Z
+Nama Anggota: Bryan
+Total Point: 40
+Denda: 9000
+----------------- 2 -----------------
+ID Anggota: SIK21160603SX
+Nama Anggota: Budi
+Total Point: 40
+Denda: 0
+----------------- 3 -----------------
+ID Anggota: SIK211009037O
+Nama Anggota: Bibi
+Total Point: 0
+Denda: 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Peminjaman Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Peminjaman: Bubu berhasil meminjam Buku judul dua!
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Pengembalian Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Pengembalian: Buku judul dua berhasil dikembalikan oleh Bubu dengan denda Rp 0!
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Peminjaman Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Peminjaman: Bibi berhasil meminjam Buku judul dua!
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Pengembalian Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Pengembalian: Buku judul dua berhasil dikembalikan oleh Bibi dengan denda Rp 0!
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Peminjaman Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Peminjaman: Budu berhasil meminjam Buku judul dua!
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Pengembalian Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Pengembalian: Buku judul dua berhasil dikembalikan oleh Budu dengan denda Rp 0!
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Peringkat Anggota ----------
+----------------- 1 -----------------
+ID Anggota: SSI201708036Z
+Nama Anggota: Bryan
+Total Point: 40
+Denda: 9000
+----------------- 2 -----------------
+ID Anggota: SIK21160603SX
+Nama Anggota: Budi
+Total Point: 40
+Denda: 0
+----------------- 3 -----------------
+ID Anggota: SIK211009037O
+Nama Anggota: Bibi
+Total Point: 20
+Denda: 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Peminjaman Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Peminjaman: Buku judul satu oleh penulis satu sedang dipinjam    
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Pengembalian Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Pengembalian: Buku judul dua tidak sedang dipinjam
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Peminjaman Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Peminjaman: Buku judul satu oleh penulis satu sedang dipinjam    
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Pengembalian Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Pengembalian: Buku judul satu berhasil dikembalikan oleh Bibi dengan denda Rp 0!
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Peminjaman Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Peminjaman: Buku judul satu oleh penulis satu sedang dipinjam    
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Pengembalian Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Pengembalian: Buku judul satu berhasil dikembalikan oleh Budu dengan denda Rp 0!
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Peringkat Anggota ----------
+----------------- 1 -----------------
+ID Anggota: SIK211009037O
+Nama Anggota: Bibi
+Total Point: 60
+Denda: 0
+----------------- 2 -----------------
+ID Anggota: SIK20010103BN
+Nama Anggota: Budu
+Total Point: 60
+Denda: 0
+----------------- 3 -----------------
+ID Anggota: SSI201708036Z
+Nama Anggota: Bryan
+Total Point: 40
+Denda: 9000
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Pembayaran Denda ----------
+ID Anggota: Jumlah: Anggota dengan ID SSI201708036Z  tidak ditemukan
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Pembayaran Denda ----------
+ID Anggota: Jumlah: Budi tidak memiliki denda
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Pembayaran Denda ----------
+ID Anggota: Jumlah: Bubu tidak memiliki denda
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Pembayaran Denda ----------
+ID Anggota: Jumlah: Bibi tidak memiliki denda
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Pembayaran Denda ----------
+ID Anggota: Jumlah: Budu tidak memiliki denda
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Detail Anggota ----------
+ID Anggota: Anggota dengan ID SSI201708036Z  tidak ditemukan
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Detail Anggota ----------
+ID Anggota: ID Anggota: SIK21160603SX
+Nama Anggota: Budi
+Total Point: 40
+Denda: 0
+Riwayat Peminjaman Buku :
+----------------- 1 -----------------
+Judul Buku: judul satu
+Penulis Buku: penulis satu
+Penerbit Buku: a
+Kategori: Fiksi
+Point: 40
+Tanggal Peminjaman: 08/03/2022
+Tanggal Pengembalian: 08/03/2022
+Denda: Rp 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Detail Anggota ----------
+ID Anggota: ID Anggota: MIK09161203UY
+Nama Anggota: Bubu
+Total Point: 20
+Denda: 0
+Riwayat Peminjaman Buku :
+----------------- 1 -----------------
+Judul Buku: judul satu
+Penulis Buku: penulis satu
+Penerbit Buku: a
+Kategori: Fiksi
+Point: 40
+Tanggal Peminjaman: 08/03/2022
+Tanggal Pengembalian: -
+Denda: Rp 0
+----------------- 2 -----------------
+Judul Buku: judul dua
+Penulis Buku: penulis dua
+Penerbit Buku: a
+Kategori: Non Fiksi
+Point: 20
+Tanggal Peminjaman: 08/03/2022
+Tanggal Pengembalian: 10/03/2022
+Denda: Rp 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Detail Anggota ----------
+ID Anggota: ID Anggota: SIK211009037O
+Nama Anggota: Bibi
+Total Point: 60
+Denda: 0
+Riwayat Peminjaman Buku :
+----------------- 1 -----------------
+Judul Buku: judul satu
+Penulis Buku: penulis satu
+Penerbit Buku: a
+Kategori: Fiksi
+Point: 40
+Tanggal Peminjaman: 08/03/2022
+Tanggal Pengembalian: 11/03/2022
+Denda: Rp 0
+----------------- 2 -----------------
+Judul Buku: judul dua
+Penulis Buku: penulis dua
+Penerbit Buku: a
+Kategori: Non Fiksi
+Point: 20
+Tanggal Peminjaman: 08/03/2022
+Tanggal Pengembalian: 11/03/2022
+Denda: Rp 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu:
+---------- Detail Anggota ----------
+ID Anggota: ID Anggota: SIK20010103BN
+Nama Anggota: Budu
+Total Point: 60
+Denda: 0
+Riwayat Peminjaman Buku :
+----------------- 1 -----------------
+Judul Buku: judul satu
+Penulis Buku: penulis satu
+Penerbit Buku: a
+Kategori: Fiksi
+Point: 40
+Tanggal Peminjaman: 08/03/2022
+Tanggal Pengembalian: 12/03/2022
+Denda: Rp 0
+----------------- 2 -----------------
+Judul Buku: judul dua
+Penulis Buku: penulis dua
+Penerbit Buku: a
+Kategori: Non Fiksi
+Point: 20
+Tanggal Peminjaman: 08/03/2022
+Tanggal Pengembalian: 12/03/2022
+Denda: Rp 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 99
+
+Terima kasih telah menggunakan SistakaNG!

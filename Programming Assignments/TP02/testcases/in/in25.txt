@@ -1,0 +1,79 @@
+1
+Rickysan
+DIK
+2000
+20/01/1999
+2
+Komik
+5
+2
+Horror
+10
+8
+3
+Bau Wabang
+Dapit
+Pakorman
+Komik
+9
+1
+Rickyanto
+MIK
+2003
+04/12/1994
+1
+Rifki
+SSI
+2019
+12/02/2001
+3
+Aku bukan anak gembala
+Raissa
+Pakimon
+Komik
+100
+3
+Buku Yang Pernah Ada
+Yelinda
+Paknerbit
+Horror
+100
+4
+DIK002001995A
+Aku bukan anak gembala
+Raissa
+13/02/2022
+4
+DIK002001995A
+Bau Wabang
+Dapit
+13/02/2022
+4
+MIK03041294RT
+Bau Wabang
+Dapit
+15/02/2022
+5
+DIK002001995A
+Aku bukan anak gembala
+Raissa
+27/02/2022
+5
+DIK002001995A
+Bau Wabang
+Dapit
+27/02/2022
+5
+MIK03041294RT
+Bau Wabang
+Dapit
+20/02/2022
+7
+DIK002001995A
+7
+MIK03041294RT
+6
+MIK03041294RT
+10000
+8
+99

@@ -1,0 +1,222 @@
+1
+Bryan
+SSI
+2020
+17/08/2003
+1
+Budi
+SIK
+2021
+16/06/2003
+1
+Bubu
+MIK
+2009
+16/12/2003
+1
+Bibi
+SIK
+2021
+10/09/2003
+1
+Budu
+SIK
+2020
+01/01/2003
+8
+2
+Fiksi
+40
+2
+Non Fiksi
+20
+3
+judul satu
+penulis satu
+a
+fiksi
+4
+3
+judul dua
+penulis dua
+a
+non fiksi
+10
+3
+judul satu
+penulis satu aksen
+a
+fiksi
+10
+3
+judul satu
+penulis satu
+b
+fiksi
+20
+3
+judul tiga
+penulis tiga
+b
+fiksin
+20
+4
+SSI201708036Z
+judul satu
+penulis satu
+08/03/2022
+4
+SSI201708036Z
+judul satu
+penulis satu
+08/03/2022
+4
+SSI201708036Y
+judul satu
+penulis satu
+08/03/2022
+4
+SIK21160603SX
+judul satu
+penulis satu
+08/03/2022
+4
+MIK09161203UY
+judul satu
+penulis satu
+08/03/2022
+4
+SIK20010103BN
+judul satu
+penulis satu
+08/03/2022
+4
+SIK211009037O
+judul satu
+penulis satu
+08/03/2022
+5
+SIK211009037O
+judul satu
+penulis satu
+08/03/2022
+5
+SIK21160603SX
+judul satu
+penulis satu
+08/03/2022
+4
+SIK211009037O
+judul satu
+penulis satu
+08/03/2022
+4
+SIK21160603SX
+judul satu
+penulis satu
+08/03/2022
+6
+SIK21160603SX
+1000
+8
+7
+SIK211009037O
+5
+SSI201708036Z
+judul satu
+penulis satu
+18/03/2022
+5
+SSI201708036Y
+judul satu
+penulis satu
+18/03/2022
+8
+4
+MIK09161203UY
+judul dua
+penulis dua
+08/03/2022
+5
+MIK09161203UY
+judul dua
+penulis dua
+10/03/2022
+4
+SIK211009037O
+judul dua
+penulis dua
+08/03/2022
+5
+SIK211009037O
+judul dua
+penulis dua
+11/03/2022
+4
+SIK20010103BN
+judul dua
+penulis dua
+08/03/2022
+5
+SIK20010103BN
+judul dua
+penulis dua
+12/03/2022
+8
+4
+MIK09161203UY
+judul satu
+penulis satu
+08/03/2022
+5
+MIK09161203UY
+judul dua
+penulis dua
+10/03/2022
+4
+SIK211009037O
+judul satu
+penulis satu
+08/03/2022
+5
+SIK211009037O
+judul satu
+penulis satu
+11/03/2022
+4
+SIK20010103BN
+judul satu
+penulis satu
+08/03/2022
+5
+SIK20010103BN
+judul satu
+penulis satu
+12/03/2022
+8
+6
+SSI201708036Z 
+500
+6
+SIK21160603SX
+500
+6
+MIK09161203UY
+500
+6
+SIK211009037O
+500
+6
+SIK20010103BN
+500
+7
+SSI201708036Z 
+7
+SIK21160603SX
+7
+MIK09161203UY
+7
+SIK211009037O
+7
+SIK20010103BN
+99

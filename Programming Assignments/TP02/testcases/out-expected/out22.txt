@@ -1,0 +1,126 @@
+Selamat Datang di Sistem Perpustakaan SistakaNG!
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Tambah Anggota ----------
+Nama: Program Studi (SIK/SSI/MIK/MTI/DIK): Angkatan: Tanggal Lahir (dd/mm/yyyy): Member Jonathan boba berhasil ditambahkan dengan data:
+ID Anggota: DIK16090499PV
+Nama Anggota: Jonathan boba
+Total Point: 0
+Denda: 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Tambah Kategori ----------
+Nama Kategori: Point: Kategori Horror dengan 10 point berhasil ditambahkan
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Tambah Buku ----------
+Judul: Penulis: Penerbit: Kategori: Stok: Buku Buku Yang Pernah Ada oleh Yelinda berhasil ditambahkan 
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Peminjaman Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Peminjaman: Jonathan boba berhasil meminjam Buku Buku Yang Pernah Ada!
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Pengembalian Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Pengembalian: Buku Buku Yang Pernah Ada berhasil dikembalikan oleh Jonathan boba dengan denda Rp 21000!
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Pembayaran Denda ----------
+ID Anggota: Jumlah: Jonathan boba berhasil membayar denda sebesar Rp 10000
+Sisa denda saat ini: Rp 11000
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Pembayaran Denda ----------
+ID Anggota: Jumlah: Jonathan boba berhasil membayar lunas denda
+Jumlah kembalian: Rp 4000
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+Terima kasih telah menggunakan SistakaNG!
+

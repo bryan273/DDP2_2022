@@ -1,0 +1,130 @@
+1
+staf-1
+STAF-1
+1
+mahasiswa
+1
+Mahasiswa
+Ahmad
+SSI
+2021
+18/10/2003
+1
+Dosen
+Harori
+1
+Mahasiswa
+Toto
+SI
+2018
+17/08/2003
+1
+Mahasiswa
+Toto
+SIK
+2018
+17/08/2003
+1
+Dosen
+Titi
+2
+Fiksi
+21
+2
+Sejarah
+2
+2
+Fiksi
+20
+3
+BukuA
+Si A
+Penerbit A
+ipa
+0
+3
+BukuA
+Si A
+Penerbit A
+fiksi
+0
+3
+BukuA
+Si A
+Penerbit A
+fiksi
+20
+3
+BukuA
+Si A
+Penerbit B
+fiksi
+20
+3
+BukuB
+Si A
+Penerbit B
+fiksi
+15
+3
+BukuB
+Si B
+Penerbit B
+fiksi
+9
+4
+BukuB
+Sib
+4
+Bukub
+Si B
+7
+BukuA
+Si A
+99
+1
+SSI21181003YE
+1
+BukuA
+Si A
+13/04/2022
+99
+1
+STAF-1
+4
+BukuA
+Si A
+99
+1
+SSI21181003YE
+2
+BukuA
+Si A
+30/04/2022
+99
+1
+DOSEN-1
+1
+BukuA
+Si A
+13/04/2022
+2
+BukuA
+Si A
+15/04/2022
+99
+1
+STAF-1
+5
+6
+SSI21181003YEY
+6
+SSI21181003YE
+7
+BukuA
+Si A
+7
+apa ya
+siapa ya
+99
+2

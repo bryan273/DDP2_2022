@@ -1,0 +1,698 @@
+Start - Register Staf...
+Berhasil menambahkan staf dengan data:
+ID Staf: STAF-1
+Nama Staf: Dek Depe
+Berhasil menambahkan staf dengan data:
+ID Staf: STAF-2
+Nama Staf: Dek DePram
+Berhasil menambahkan staf dengan data:
+ID Staf: STAF-3
+Nama Staf: Dek Sofita
+Berhasil menambahkan staf dengan data:
+ID Staf: STAF-4
+Nama Staf: Winter
+Berhasil menambahkan staf dengan data:
+ID Staf: STAF-5
+Nama Staf: Boo
+Done - Register Staf...
+
+Selamat Datang di Sistem Perpustakaan SistakaNG!
+================ Menu Utama ================
+
+1. Login
+2. Keluar
+Masukkan pilihan menu: 1
+
+Masukkan ID Anda untuk login ke sistem
+ID: staf-1
+Pengguna dengan ID staf-1 tidak ditemukan
+Masukkan ID Anda untuk login ke sistem
+ID: STAF-1
+Halo, Dek Depe! Selamat datang di SistakaNG
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 1
+
+---------- Tambah Anggota ----------
+Tipe Anggota: mahasiswa
+Tipe Anggota mahasiswa tidak valid!
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 1
+
+---------- Tambah Anggota ----------
+Tipe Anggota: Mahasiswa
+Nama: Ahmad
+Program Studi (SIK/SSI/MIK/MTI/DIK): SSI
+Angkatan: 2021
+Tanggal Lahir (dd/mm/yyyy): 18/10/2003
+Berhasil menambahkan mahasiswa dengan data:
+ID Anggota: SSI21181003YE
+Nama Anggota: Ahmad
+Total Poin: 0
+Denda: Rp0
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 1
+
+---------- Tambah Anggota ----------
+Tipe Anggota: Dosen
+Nama: Harori
+Berhasil menambahkan dosen dengan data:
+ID Anggota: DOSEN-1
+Nama Anggota: Harori
+Total Poin: 0
+Denda: Rp0
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 1
+
+---------- Tambah Anggota ----------
+Tipe Anggota: Mahasiswa
+Nama: Toto
+Program Studi (SIK/SSI/MIK/MTI/DIK): SI
+Angkatan: 2018
+Tanggal Lahir (dd/mm/yyyy): 17/08/2003
+Tidak dapat menambahkan anggota silahkan periksa kembali input anda!
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 1
+
+---------- Tambah Anggota ----------
+Tipe Anggota: Mahasiswa
+Nama: Toto
+Program Studi (SIK/SSI/MIK/MTI/DIK): SIK
+Angkatan: 2018
+Tanggal Lahir (dd/mm/yyyy): 17/08/2003
+Berhasil menambahkan mahasiswa dengan data:
+ID Anggota: SIK1817080382
+Nama Anggota: Toto
+Total Poin: 0
+Denda: Rp0
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 1
+
+---------- Tambah Anggota ----------
+Tipe Anggota: Dosen
+Nama: Titi
+Berhasil menambahkan dosen dengan data:
+ID Anggota: DOSEN-2
+Nama Anggota: Titi
+Total Poin: 0
+Denda: Rp0
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 2
+
+---------- Tambah Kategori ----------
+Nama Kategori: Fiksi
+Poin: 21
+Kategori Fiksi dengan poin 21 berhasil ditambahkan
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 2
+
+---------- Tambah Kategori ----------
+Nama Kategori: Sejarah
+Poin: 2
+Kategori Sejarah dengan poin 2 berhasil ditambahkan
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 2
+
+---------- Tambah Kategori ----------
+Nama Kategori: Fiksi
+Poin: 20
+Kategori Fiksi sudah pernah ditambahkan
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 3
+
+---------- Tambah Buku ----------
+Judul: BukuA
+Penulis: Si A
+Penerbit: Penerbit A
+Kategori: fiksi
+Stok: 0
+Stok harus lebih dari 0
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 3
+
+---------- Tambah Buku ----------
+Judul: BukuA
+Penulis: Si A
+Penerbit: Penerbit A
+Kategori: fiksi
+Stok: 20
+Buku BukuA oleh Si A berhasil ditambahkan
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 3
+
+---------- Tambah Buku ----------
+Judul: BukuA
+Penulis: Si A
+Penerbit: Penerbit B
+Kategori: fiksi
+Stok: 20
+Buku BukuA oleh Si A sudah pernah ditambahkan
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 3
+
+---------- Tambah Buku ----------
+Judul: BukuB
+Penulis: Si A
+Penerbit: Penerbit B
+Kategori: fiksi
+Stok: 15
+Buku BukuB oleh Si A berhasil ditambahkan
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 3
+
+---------- Tambah Buku ----------
+Judul: BukuB
+Penulis: Si B
+Penerbit: Penerbit B
+Kategori: fiksi
+Stok: 9
+Buku BukuB oleh Si B berhasil ditambahkan
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 4
+
+---------- Hapus Buku ----------
+Judul: BukuB
+Penulis: Sib
+Buku BukuB oleh Sib tidak ditemukan
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 4
+
+---------- Hapus Buku ----------
+Judul: Bukub
+Penulis: Si B
+Buku BukuB oleh Si B berhasil dihapus
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 7
+
+---------- Daftar Peminjam Buku ----------
+Judul: BukuA
+Penulis: Si A
+Judul Buku: BukuA
+Penulis Buku: Si A
+Penerbit Buku: Penerbit A
+Kategori: Fiksi
+Poin: 21
+---------- Daftar Peminjam ----------
+Belum ada anggota yang meminjam buku BukuA
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 99
+
+Terima kasih telah menggunakan SistakaNG!
+
+
+================ Menu Utama ================
+
+1. Login
+2. Keluar
+Masukkan pilihan menu: 1
+
+Masukkan ID Anda untuk login ke sistem
+ID: SSI21181003YE
+Halo, Ahmad! Selamat datang di SistakaNG
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 1
+
+---------- Peminjaman Buku ----------
+Judul Buku: BukuA
+Penulis Buku: Si A
+Tanggal Peminjaman: 13/04/2022
+Ahmad berhasil meminjam Buku BukuA!
+
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 99
+
+Terima kasih telah menggunakan SistakaNG!
+
+
+================ Menu Utama ================
+
+1. Login
+2. Keluar
+Masukkan pilihan menu: 1
+
+Masukkan ID Anda untuk login ke sistem
+ID: STAF-1
+Halo, Dek Depe! Selamat datang di SistakaNG
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 4
+
+---------- Hapus Buku ----------
+Judul: BukuA
+Penulis: Si A
+Buku BukuA oleh Si A tidak dapat dihapus karena sedang dipinjam
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 99
+
+Terima kasih telah menggunakan SistakaNG!
+
+
+================ Menu Utama ================
+
+1. Login
+2. Keluar
+Masukkan pilihan menu: 1
+
+Masukkan ID Anda untuk login ke sistem
+ID: SSI21181003YE
+Halo, Ahmad! Selamat datang di SistakaNG
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 2
+
+---------- Pengembalian Buku ----------
+Judul Buku: BukuA
+Penulis Buku: Si A
+Tanggal Pengembalian: 30/04/2022
+Buku BukuA berhasil dikembalikan oleh Ahmad dengan denda Rp30000!
+
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 99
+
+Terima kasih telah menggunakan SistakaNG!
+
+
+================ Menu Utama ================
+
+1. Login
+2. Keluar
+Masukkan pilihan menu: 1
+
+Masukkan ID Anda untuk login ke sistem
+ID: DOSEN-1
+Halo, Harori! Selamat datang di SistakaNG
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 1
+
+---------- Peminjaman Buku ----------
+Judul Buku: BukuA
+Penulis Buku: Si A
+Tanggal Peminjaman: 13/04/2022
+Harori berhasil meminjam Buku BukuA!
+
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 2
+
+---------- Pengembalian Buku ----------
+Judul Buku: BukuA
+Penulis Buku: Si A
+Tanggal Pengembalian: 15/04/2022
+Buku BukuA berhasil dikembalikan oleh Harori dengan denda Rp0!
+
+================ Menu Anggota ================
+
+1. Peminjaman
+2. Pengembalian
+3. Pembayaran Denda
+4. Detail Anggota
+99. Logout
+Masukkan pilihan menu: 99
+
+Terima kasih telah menggunakan SistakaNG!
+
+
+================ Menu Utama ================
+
+1. Login
+2. Keluar
+Masukkan pilihan menu: 1
+
+Masukkan ID Anda untuk login ke sistem
+ID: STAF-1
+Halo, Dek Depe! Selamat datang di SistakaNG
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 5
+
+---------- Peringkat Anggota ----------
+----------------- 1 -----------------
+ID Anggota: SSI21181003YE
+Nama Anggota: Ahmad
+Total Poin: 21
+Denda: Rp30000
+----------------- 2 -----------------
+ID Anggota: DOSEN-1
+Nama Anggota: Harori
+Total Poin: 21
+Denda: Rp0
+----------------- 3 -----------------
+ID Anggota: DOSEN-2
+Nama Anggota: Titi
+Total Poin: 0
+Denda: Rp0
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 6
+
+---------- Detail Anggota ----------
+ID Anggota: SSI21181003YEY
+Anggota dengan ID SSI21181003YEY tidak ditemukan
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 6
+
+---------- Detail Anggota ----------
+ID Anggota: SSI21181003YE
+ID Anggota: SSI21181003YE
+Nama Anggota: Ahmad
+Total Poin: 21
+Denda: Rp30000
+Riwayat Peminjaman Buku:
+----------------- 1 -----------------
+Judul Buku: BukuA
+Penulis Buku: Si A
+Penerbit Buku: Penerbit A
+Kategori: Fiksi
+Poin: 21
+Tanggal Peminjaman: 13/04/2022
+Tanggal Pengembalian: 30/04/2022
+Denda: Rp30000
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 7
+
+---------- Daftar Peminjam Buku ----------
+Judul: BukuA
+Penulis: Si A
+Judul Buku: BukuA
+Penulis Buku: Si A
+Penerbit Buku: Penerbit A
+Kategori: Fiksi
+Poin: 21
+---------- Daftar Peminjam ----------
+----------------- 1 -----------------
+ID Anggota: SSI21181003YE
+Nama Anggota: Ahmad
+Total Poin: 21
+Denda: Rp30000
+----------------- 2 -----------------
+ID Anggota: DOSEN-1
+Nama Anggota: Harori
+Total Poin: 21
+Denda: Rp0
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 7
+
+---------- Daftar Peminjam Buku ----------
+Judul: apa ya
+Penulis: siapa ya
+Buku apa ya oleh siapa ya tidak ditemukan
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 99
+
+Terima kasih telah menggunakan SistakaNG!
+
+
+================ Menu Utama ================
+
+1. Login
+2. Keluar
+Masukkan pilihan menu: 2
+
+Terima kasih telah menggunakan SistakaNG. Sampai jumpa di lain kesempatan!

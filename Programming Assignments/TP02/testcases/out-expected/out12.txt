@@ -1,0 +1,90 @@
+Selamat Datang di Sistem Perpustakaan SistakaNG!
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Tambah Buku ----------
+Judul: Penulis: Penerbit: Kategori: Stok: Kategori Olahraga tidak ditemukan
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Tambah Kategori ----------
+Nama Kategori: Point: Kategori Olahraga dengan 30 point berhasil ditambahkan
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Tambah Kategori ----------
+Nama Kategori: Point: Kategori Olahraga sudah pernah ditambahkan
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Tambah Buku ----------
+Judul: Penulis: Penerbit: Kategori: Stok: Buku Dedepe Belum Pernah Ada oleh Bapak Depe berhasil ditambahkan 
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Tambah Buku ----------
+Judul: Penulis: Penerbit: Kategori: Stok: Buku Dedepe Belum Pernah Ada oleh Bapak Depe sudah pernah ditambahkan
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+Terima kasih telah menggunakan SistakaNG!
+

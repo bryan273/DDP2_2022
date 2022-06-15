@@ -1,0 +1,16 @@
+3
+Buku Meh
+Adam
+Penerbit
+Fiksi
+120
+2
+Fiksi
+10
+3
+Buku Meh
+Penerbit
+Penulis
+Fiksi
+120
+99

@@ -1,0 +1,70 @@
+1
+Gwej
+DIK
+2007
+20/21/990
+1
+Gwej
+DIK
+2007
+20/11/2000
+2
+Ikan
+40
+2
+ikan
+200
+3
+Buku
+Teman Saya
+ABC
+ikan
+0
+3
+Buku 
+Teman Saya
+ABC
+ikan
+10
+3
+Buku Tatang Sutarman
+Tatang Sutarman
+FSRD UI
+ikan
+2
+4
+DIK07201100VG
+Buku
+Bukan Teman Saya
+20/12/2022
+4
+DIK07201100VG
+Buku Tatang Sutarman
+Tatang Sutarman
+20/12/2022
+4
+DIK07201100VG
+Buku Tatang Sutarman
+Tatang Sutarman
+20/12/2022
+1
+Fishmans
+SSI
+2019
+29/12/1998
+1
+Iwashi
+SIK
+2020
+06/07/1980
+4
+SIK20060780V7
+Buku Tatang Sutarman
+Tatang Sutarman
+29/12/1998
+4
+SSI19291298EZ
+Buku Tatang Sutarman
+Tatang Sutarman
+29/12/1998
+99

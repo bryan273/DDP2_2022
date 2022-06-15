@@ -1,0 +1,143 @@
+Selamat Datang di Sistem Perpustakaan SistakaNG!
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Tambah Kategori ----------
+Nama Kategori: Point: Kategori Fantasy dengan 73 point berhasil ditambahkan
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Tambah Buku ----------
+Judul: Penulis: Penerbit: Kategori: Stok: Buku Fantastic Beasts oleh JK Rowling berhasil ditambahkan 
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Tambah Anggota ----------
+Nama: Program Studi (SIK/SSI/MIK/MTI/DIK): Angkatan: Tanggal Lahir (dd/mm/yyyy): Member Xeia berhasil ditambahkan dengan data:
+ID Anggota: SIK18201298O1
+Nama Anggota: Xeia
+Total Point: 0
+Denda: 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Tambah Anggota ----------
+Nama: Program Studi (SIK/SSI/MIK/MTI/DIK): Angkatan: Tanggal Lahir (dd/mm/yyyy): Member Xeta berhasil ditambahkan dengan data:
+ID Anggota: SSI19080820P8
+Nama Anggota: Xeta
+Total Point: 0
+Denda: 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Peminjaman Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Peminjaman: Xeia berhasil meminjam Buku Fantastic Beasts!
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Peminjaman Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Peminjaman: Buku Fantastic Beasts oleh JK Rowling tidak tersedia
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Pengembalian Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Pengembalian: Buku Fantastic Beasts berhasil dikembalikan oleh Xeia dengan denda Rp 0!
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Peminjaman Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Peminjaman: Xeta berhasil meminjam Buku Fantastic Beasts!
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+Terima kasih telah menggunakan SistakaNG!
+

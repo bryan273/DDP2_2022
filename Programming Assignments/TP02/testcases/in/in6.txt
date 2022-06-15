@@ -1,0 +1,10 @@
+2
+Kategori1
+10
+3
+Judul1
+Penulis1
+Penerbit1
+Kategori1
+1
+99

@@ -1,0 +1,453 @@
+Selamat Datang di Sistem Perpustakaan SistakaNG!
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Tambah Anggota ----------
+Nama: Program Studi (SIK/SSI/MIK/MTI/DIK): Angkatan: Tanggal Lahir (dd/mm/yyyy): Member Awawa berhasil ditambahkan dengan data:
+ID Anggota: SIK20110502SP
+Nama Anggota: Awawa
+Total Point: 0
+Denda: 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Peringkat Anggota ----------
+----------------- 1 -----------------
+ID Anggota: SIK20110502SP
+Nama Anggota: Awawa
+Total Point: 0
+Denda: 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Tambah Anggota ----------
+Nama: Program Studi (SIK/SSI/MIK/MTI/DIK): Angkatan: Tanggal Lahir (dd/mm/yyyy): Member Zuzuzu berhasil ditambahkan dengan data:
+ID Anggota: DIK190501908K
+Nama Anggota: Zuzuzu
+Total Point: 0
+Denda: 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Peringkat Anggota ----------
+----------------- 1 -----------------
+ID Anggota: SIK20110502SP
+Nama Anggota: Awawa
+Total Point: 0
+Denda: 0
+----------------- 2 -----------------
+ID Anggota: DIK190501908K
+Nama Anggota: Zuzuzu
+Total Point: 0
+Denda: 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Tambah Anggota ----------
+Nama: Program Studi (SIK/SSI/MIK/MTI/DIK): Angkatan: Tanggal Lahir (dd/mm/yyyy): Member Gangel berhasil ditambahkan dengan data:
+ID Anggota: MIK1820079960
+Nama Anggota: Gangel
+Total Point: 0
+Denda: 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Peringkat Anggota ----------
+----------------- 1 -----------------
+ID Anggota: SIK20110502SP
+Nama Anggota: Awawa
+Total Point: 0
+Denda: 0
+----------------- 2 -----------------
+ID Anggota: MIK1820079960
+Nama Anggota: Gangel
+Total Point: 0
+Denda: 0
+----------------- 3 -----------------
+ID Anggota: DIK190501908K
+Nama Anggota: Zuzuzu
+Total Point: 0
+Denda: 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Tambah Anggota ----------
+Nama: Program Studi (SIK/SSI/MIK/MTI/DIK): Angkatan: Tanggal Lahir (dd/mm/yyyy): Member Sisiapa berhasil ditambahkan dengan data:
+ID Anggota: MTI192912004T
+Nama Anggota: Sisiapa
+Total Point: 0
+Denda: 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Peringkat Anggota ----------
+----------------- 1 -----------------
+ID Anggota: SIK20110502SP
+Nama Anggota: Awawa
+Total Point: 0
+Denda: 0
+----------------- 2 -----------------
+ID Anggota: MIK1820079960
+Nama Anggota: Gangel
+Total Point: 0
+Denda: 0
+----------------- 3 -----------------
+ID Anggota: MTI192912004T
+Nama Anggota: Sisiapa
+Total Point: 0
+Denda: 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Tambah Kategori ----------
+Nama Kategori: Point: Kategori Horor dengan 20 point berhasil ditambahkan
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Tambah Buku ----------
+Judul: Penulis: Penerbit: Kategori: Stok: Buku How to Code oleh Kugelblitz berhasil ditambahkan 
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Peminjaman Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Peminjaman: Zuzuzu berhasil meminjam Buku How to Code!
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Detail Anggota ----------
+ID Anggota: ID Anggota: DIK190501908K
+Nama Anggota: Zuzuzu
+Total Point: 0
+Denda: 0
+Riwayat Peminjaman Buku :
+----------------- 1 -----------------
+Judul Buku: How to Code
+Penulis Buku: Kugelblitz
+Penerbit Buku: Havara
+Kategori: Horor
+Point: 20
+Tanggal Peminjaman: 12/12/2021
+Tanggal Pengembalian: -
+Denda: Rp 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Peringkat Anggota ----------
+----------------- 1 -----------------
+ID Anggota: SIK20110502SP
+Nama Anggota: Awawa
+Total Point: 0
+Denda: 0
+----------------- 2 -----------------
+ID Anggota: MIK1820079960
+Nama Anggota: Gangel
+Total Point: 0
+Denda: 0
+----------------- 3 -----------------
+ID Anggota: MTI192912004T
+Nama Anggota: Sisiapa
+Total Point: 0
+Denda: 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Pengembalian Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Pengembalian: Buku How to Code berhasil dikembalikan oleh Zuzuzu dengan denda Rp 0!
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Detail Anggota ----------
+ID Anggota: ID Anggota: DIK190501908K
+Nama Anggota: Zuzuzu
+Total Point: 20
+Denda: 0
+Riwayat Peminjaman Buku :
+----------------- 1 -----------------
+Judul Buku: How to Code
+Penulis Buku: Kugelblitz
+Penerbit Buku: Havara
+Kategori: Horor
+Point: 20
+Tanggal Peminjaman: 12/12/2021
+Tanggal Pengembalian: 15/12/2021
+Denda: Rp 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Peringkat Anggota ----------
+----------------- 1 -----------------
+ID Anggota: DIK190501908K
+Nama Anggota: Zuzuzu
+Total Point: 20
+Denda: 0
+----------------- 2 -----------------
+ID Anggota: SIK20110502SP
+Nama Anggota: Awawa
+Total Point: 0
+Denda: 0
+----------------- 3 -----------------
+ID Anggota: MIK1820079960
+Nama Anggota: Gangel
+Total Point: 0
+Denda: 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Peminjaman Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Peminjaman: Sisiapa berhasil meminjam Buku How to Code!
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Pengembalian Buku ----------
+ID Anggota: Judul Buku: Penulis Buku: Tanggal Pengembalian: Buku How to Code berhasil dikembalikan oleh Sisiapa dengan denda Rp 72000!
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Detail Anggota ----------
+ID Anggota: ID Anggota: MTI192912004T
+Nama Anggota: Sisiapa
+Total Point: 20
+Denda: 72000
+Riwayat Peminjaman Buku :
+----------------- 1 -----------------
+Judul Buku: How to Code
+Penulis Buku: Kugelblitz
+Penerbit Buku: Havara
+Kategori: Horor
+Point: 20
+Tanggal Peminjaman: 01/01/2022
+Tanggal Pengembalian: 01/02/2022
+Denda: Rp 72000
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+---------- Peringkat Anggota ----------
+----------------- 1 -----------------
+ID Anggota: MTI192912004T
+Nama Anggota: Sisiapa
+Total Point: 20
+Denda: 72000
+----------------- 2 -----------------
+ID Anggota: DIK190501908K
+Nama Anggota: Zuzuzu
+Total Point: 20
+Denda: 0
+----------------- 3 -----------------
+ID Anggota: SIK20110502SP
+Nama Anggota: Awawa
+Total Point: 0
+Denda: 0
+
+================ Menu Utama ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Peminjaman
+5. Pengembalian
+6. Pembayaran Denda
+7. Detail Anggota
+8. 3 Peringkat Pertama
+99. Keluar
+Masukkan pilihan menu: 
+Terima kasih telah menggunakan SistakaNG!
+

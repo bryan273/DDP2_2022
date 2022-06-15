@@ -1,0 +1,108 @@
+Start - Register Staf...
+Berhasil menambahkan staf dengan data:
+ID Staf: STAF-1
+Nama Staf: Dek Depe
+Berhasil menambahkan staf dengan data:
+ID Staf: STAF-2
+Nama Staf: Dek DePram
+Berhasil menambahkan staf dengan data:
+ID Staf: STAF-3
+Nama Staf: Dek Sofita
+Berhasil menambahkan staf dengan data:
+ID Staf: STAF-4
+Nama Staf: Winter
+Berhasil menambahkan staf dengan data:
+ID Staf: STAF-5
+Nama Staf: Boo
+Done - Register Staf...
+
+Selamat Datang di Sistem Perpustakaan SistakaNG!
+================ Menu Utama ================
+
+1. Login
+2. Keluar
+Masukkan pilihan menu: 
+Masukkan ID Anda untuk login ke sistem
+ID: Pengguna dengan ID Staf-1 tidak ditemukan
+Masukkan ID Anda untuk login ke sistem
+ID: Halo, Dek Depe! Selamat datang di SistakaNG
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 
+---------- Tambah Anggota ----------
+Tipe Anggota: Nama: Program Studi (SIK/SSI/MIK/MTI/DIK): Angkatan: Tanggal Lahir (dd/mm/yyyy): Berhasil menambahkan mahasiswa dengan data:
+ID Anggota: SIK21230303AS
+Nama Anggota: Summer
+Total Poin: 0
+Denda: Rp0
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 
+---------- Tambah Anggota ----------
+Tipe Anggota: Nama: Berhasil menambahkan dosen dengan data:
+ID Anggota: DOSEN-1
+Nama Anggota: Zipa
+Total Poin: 0
+Denda: Rp0
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 
+---------- Peringkat Anggota ----------
+----------------- 1 -----------------
+ID Anggota: SIK21230303AS
+Nama Anggota: Summer
+Total Poin: 0
+Denda: Rp0
+----------------- 2 -----------------
+ID Anggota: DOSEN-1
+Nama Anggota: Zipa
+Total Poin: 0
+Denda: Rp0
+
+================ Menu Staf ================
+
+1. Tambah Anggota
+2. Tambah Kategori
+3. Tambah Buku
+4. Hapus Buku
+5. 3 Peringkat Pertama
+6. Detail Anggota
+7. Daftar Peminjam Buku
+99. Logout
+Masukkan pilihan menu: 
+Terima kasih telah menggunakan SistakaNG!
+
+
+================ Menu Utama ================
+
+1. Login
+2. Keluar
+Masukkan pilihan menu: 
+Terima kasih telah menggunakan SistakaNG. Sampai jumpa di lain kesempatan!
+

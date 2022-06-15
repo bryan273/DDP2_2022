@@ -1,0 +1,40 @@
+2
+Fantasy
+73
+3
+Fantastic Beasts
+JK Rowling
+Publisher
+Fantasy
+1
+1
+Xeia
+SIK
+2018
+20/12/1998
+1
+Xeta
+SSI
+2019
+08/08/2020
+4
+SIK18201298O1
+Fantastic Beasts
+JK Rowling
+01/03/2022
+4
+SSI19080820P8
+Fantastic Beasts
+JK Rowling
+02/03/2022
+5
+SIK18201298O1
+Fantastic Beasts
+JK Rowling
+05/03/2022
+4
+SSI19080820P8
+Fantastic Beasts
+JK Rowling
+06/03/2022
+99

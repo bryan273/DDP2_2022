@@ -1,0 +1,62 @@
+1
+ASDFGHIJKL
+STAF-2
+2
+self development
+50
+2
+Self Development
+25
+3
+Grit
+Angela Duckworth
+Gramedia
+Self Development
+10
+5
+1
+Mahasiswa
+Summer
+SIK
+2021
+23/03/2003
+99
+1
+SIK21230303AS
+4
+1
+Grit
+Angela Duckworth
+01/04/2022
+4
+99
+1
+STAF-3
+4
+Grit
+Angela Duckworth
+99
+1
+SIK21230303AS
+2
+Grit
+Angela Duckworth
+10/04/2022
+4
+99
+1
+STAF-4
+4
+Grit
+Angela Duckworth
+5
+99
+1
+SIK21230303AS
+1
+Grit
+Angela Duckworth
+11/04/2022
+4
+99
+2

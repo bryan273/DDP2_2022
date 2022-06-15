@@ -1,0 +1,7 @@
+application {
+    mainClass.set('assignments.assignment4.SistakaNGUI')
+}
+
+run {
+    standardInput = System.in
+}

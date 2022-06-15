@@ -1,0 +1,90 @@
+image: gradle:7.3.3-jdk17
+
+stages:
+  - build
+  - test
+
+build:
+  stage: build
+  script: gradle build -x test
+  cache:
+    key: "$CI_COMMIT_REF_NAME"
+    paths:
+      - assignment*/build
+      - .gradle
+  rules:
+    - if: '$CI_PROJECT_NAMESPACE != "DDP2-CSUI/2021-2022-genap"'
+
+test:a1:
+  stage: test
+  script: gradle :assignment1:test
+  cache:
+    key: "$CI_COMMIT_REF_NAME"
+    paths:
+      - assignment1/build
+      - .gradle
+  artifacts:
+    paths:
+      - assignment1
+    when: always
+  rules:
+    - if: '$CI_PROJECT_NAMESPACE != "DDP2-CSUI/2021-2022-genap"'
+      changes:
+        - assignment1/**/*
+
+test:a2:
+  stage: test
+  script: gradle :assignment2:test
+  cache:
+    key: "$CI_COMMIT_REF_NAME"
+    paths:
+      - assignment2/build
+      - .gradle
+  artifacts:
+    paths:
+      - assignment2
+    when: always
+  rules:
+    - if: '$CI_PROJECT_NAMESPACE != "DDP2-CSUI/2021-2022-genap"'
+      changes:
+      - assignment2/**/*
+
+diff:a2:
+  stage: test
+  script: |
+    for i in {1,2,5,8,11,14}
+    do
+      echo "Running text test case $i ..."
+      gradle :assignment2:run --console plain --quiet < "assignment2/testcases/in/in$i.txt" > "assignment2/testcases/out-mahasiswa/out$i.txt"
+      diff "assignment2/testcases/out-mahasiswa/out$i.txt" "assignment2/testcases/out-expected/out$i.txt" || true
+    done
+  allow_failure: true
+  cache:
+    key: "$CI_COMMIT_REF_NAME"
+    paths:
+      - assignment2/build
+      - .gradle
+  rules:
+    - if: '$CI_PROJECT_NAMESPACE != "DDP2-CSUI/2021-2022-genap"'
+      changes:
+      - assignment2/**/*
+
+diff:a3:
+  stage: test
+  script: |
+    for i in {1..4}
+    do
+      echo "Running text test case $i/4 ..."
+      gradle :assignment3:run --console plain --quiet < "assignment3/testcases/in/in$i.txt" > "assignment3/testcases/out-mahasiswa/out$i.txt"
+      diff "assignment3/testcases/out-mahasiswa/out$i.txt" "assignment3/testcases/out-expected/out$i.txt" || true
+    done
+  allow_failure: true
+  cache:
+    key: "$CI_COMMIT_REF_NAME"
+    paths:
+      - assignment3/build
+      - .gradle
+  rules:
+    - if: '$CI_PROJECT_NAMESPACE != "DDP2-CSUI/2021-2022-genap"'
+      changes:
+      - assignment3/**/*

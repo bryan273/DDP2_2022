@@ -1,0 +1,112 @@
+1
+STAF-5
+1
+Mahasiswa
+Summer
+SIK
+2021
+23/03/2003
+1
+Dosen
+Zipa
+2
+Self Development
+50
+3
+Grit
+Angela Duckworth
+Gramedia
+Self Development
+2
+3
+Refactoring
+Martin Fowler
+Amazon
+Self Development
+2
+3
+Grit 2
+Angela Duckworth
+Gramedia
+Self Development
+1
+3
+Refactoring 2
+Martin Fowler
+Amazon
+Self Development
+1
+3
+Grit 3
+Angela Duckworth
+Gramedia
+Self Development
+1
+3
+Refactoring 3
+Martin Fowler
+Amazon
+Self Development
+1
+99
+1
+SIK21230303AS
+1
+Buku Tidak ada
+Penulis Tidak ada
+08/04/2022
+1
+Grit
+Angela Duckworth
+08/04/2022
+1
+Grit
+Angela Duckworth
+09/04/2022
+4
+1
+Grit 2
+Angela Duckworth
+08/04/2022
+4
+1
+Grit 3
+Angela Duckworth
+08/04/2022
+4
+1
+Grit 3
+Angela Duckworth
+09/04/2022
+4
+1
+Refactoring 3
+Martin Fowler
+09/04/2022
+2
+Refactoring 3
+Martin Fowler
+20/04/2022
+2
+Tidak Ada
+Anon
+20/04/2022
+4
+2
+Grit 3
+Angela Duckworth
+20/04/2022
+4
+1
+Refactoring 3
+Martin Fowler
+21/04/2022
+3
+10000
+3
+7000
+3
+1000
+4
+99
+2
